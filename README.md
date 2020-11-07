@@ -1,0 +1,2 @@
+# Rimi
+Discord Reminder Bot
